@@ -1,2 +1,6 @@
 1) To get the individual pytests make sure that the interpreter in configurations is not set to
 anacoda
+
+2) Pycharm creates public git repos
+https://epsilonzeta.wordpress.com/2017/01/09/using-private-github-repositories-with-pycharm/
+Working with Pycharm and private githubs can be a pain
