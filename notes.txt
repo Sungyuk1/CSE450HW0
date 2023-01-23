@@ -1,0 +1,2 @@
+1) To get the individual pytests make sure that the interpreter in configurations is not set to
+anacoda
